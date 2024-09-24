@@ -1,0 +1,112 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(196, 224, 245);
+}
+#main{
+    height: 90%;
+    width: 65%;
+    display: flex;
+}
+#box1{
+    height: 100%;
+    width: 40%;
+    background-color: rgb(16, 97, 197);
+
+}
+#para{
+    height: 40%;
+    width: 100%;
+    margin: 35px;
+    color: white;
+}
+
+#logo img{
+    height: 80%;
+    width: 80%;
+}
+#para h3{
+    margin-bottom: 30px;
+    font-size:xx-large;
+}
+#para p{
+    font-size: larger;    
+    margin-right: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#logo {
+    height: 40%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box2{
+    height: 100%;
+    width: 60%;
+    background-color: white;
+}
+#input{
+    height: 48px;
+    width: 92%;
+    margin-left: 20px;
+    margin-top:50px;
+    display: flex;
+    align-items: center;
+}
+#input input{
+    height: 45px;
+    width: 100%;margin: 2px;
+    border:transparent;
+    font-size: large;
+    outline: none;
+    background-color: rgb(219, 235, 249);
+    border-radius: 5px;
+}
+#box2 p{
+    margin-top: 40px;
+    margin-left: 24px;
+    font-size: small;
+    color: rgb(60, 60, 60);
+}
+#button{
+    margin: 20px;
+    background-color: orangered;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 15px;
+    color: white;
+    cursor:pointer;
+}
+#button input{
+    background-color: transparent;
+    border: transparent;
+    font-size: larger;
+    color: white;
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+}
+#button:hover{
+    background-color: rgb(175, 48, 2);
+}
+#footer{
+    color:blue;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    cursor: pointer;
+}
+
+#footer:hover{
+    color: black;
+}
+
