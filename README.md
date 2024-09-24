@@ -1,6 +1,7 @@
 # Flipkart-clone
 UI
-[Visit on Flipkart clone]()
+
+[Visit on Flipkart clone](https://ritik2177.github.io/Flipkart-clone/)
 
 Screenshots
 ![](./image/1.png)
